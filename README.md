@@ -11,7 +11,7 @@ build modern web app blog using gatsby js
 
 ![cuteblog for Gatsby js](1.jpg)
 
-Documentation soon on : [https://www.hockeycomputindo.com/2022/04/modern-blog-with-gatsby-cuteblog-free.html](https://www.hockeycomputindo.com/2022/04/modern-blog-with-gatsby-cuteblog-free.html)
+Documentation : [https://www.hockeycomputindo.com/2022/04/modern-blog-with-gatsby-cuteblog-free.html](https://www.hockeycomputindo.com/2022/04/modern-blog-with-gatsby-cuteblog-free.html)
 
 Test demo via shared hosting deploy : [https://cutegatsby.axcora.my.id →](https://cutegatsby.axcora.my.id/)
 
@@ -33,7 +33,7 @@ Article page
 -------------------------
 
 
-Documentation soon on : [https://www.hockeycomputindo.com/2022/04/modern-blog-with-gatsby-cuteblog-free.html](https://www.hockeycomputindo.com/2022/04/modern-blog-with-gatsby-cuteblog-free.html)
+Documentation : [https://www.hockeycomputindo.com/2022/04/modern-blog-with-gatsby-cuteblog-free.html](https://www.hockeycomputindo.com/2022/04/modern-blog-with-gatsby-cuteblog-free.html)
 
 Test demo via gatsby cloud deploy : [https://cuteblog.gatsbyjs.io/ →](https://cuteblog.gatsbyjs.io)
 
