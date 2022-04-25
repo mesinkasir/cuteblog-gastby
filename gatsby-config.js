@@ -17,6 +17,7 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-image`,
+	`gatsby-plugin-gatsby-cloud`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
