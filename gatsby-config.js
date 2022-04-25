@@ -8,7 +8,7 @@ module.exports = {
       summary: `Cuteblog a new modern website blog with gatsby js.`,
     },
     siteUrl: `https://cuteblog.web.app`,
-    gst: `lO3pNP7czUCL3XA6pca2iX1eKo91FdnRZ5ikLWKxrrc`,
+    gst: `CAsD8efhfpFFdOoj1KgZdtSd7fayFKwqhzZwyBN5VHk`,
     cover: `https://mesinkasironline.web.app/icons/icon-384x384.png`,
 	social: {
       twitter: `hockeycomp`,
