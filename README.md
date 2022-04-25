@@ -15,6 +15,9 @@ Documentation soon on : [https://www.hockeycomputindo.com/2022/04/modern-blog-wi
 
 Test demo via shared hosting deploy : [https://cutegatsby.axcora.my.id →](https://cutegatsby.axcora.my.id/)
 
+Test demo via gatsby cloud deploy : [https://cuteblog.gatsbyjs.io/ →](https://cuteblog.gatsbyjs.io)
+
+
 ------------------------
 
 ##### DISPLAY
@@ -31,5 +34,7 @@ Article page
 
 
 Documentation soon on : [https://www.hockeycomputindo.com/2022/04/modern-blog-with-gatsby-cuteblog-free.html](https://www.hockeycomputindo.com/2022/04/modern-blog-with-gatsby-cuteblog-free.html)
+
+Test demo via gatsby cloud deploy : [https://cuteblog.gatsbyjs.io/ →](https://cuteblog.gatsbyjs.io)
 
 Test demo via shared hosting deploy : [https://cutegatsby.axcora.my.id →](https://cutegatsby.axcora.my.id/)
