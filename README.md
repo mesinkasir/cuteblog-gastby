@@ -15,6 +15,8 @@ Documentation : [https://www.hockeycomputindo.com/2022/04/modern-blog-with-gatsb
 
 Test demo via shared hosting deploy : [https://cutegatsby.axcora.my.id →](https://cutegatsby.axcora.my.id/)
 
+Gatsby Web Car Profile : [https://limoweb.vercel.app →](https://limoweb.vercel.app/)
+
 Video demo : [https://youtu.be/WJk0aXGN39w](https://youtu.be/WJk0aXGN39w)
 
 
@@ -35,8 +37,10 @@ Article page
 
 Documentation : [https://www.hockeycomputindo.com/2022/04/modern-blog-with-gatsby-cuteblog-free.html](https://www.hockeycomputindo.com/2022/04/modern-blog-with-gatsby-cuteblog-free.html)
 
-Test demo via gatsby cloud deploy : [https://cuteblog.gatsbyjs.io/ →](https://cuteblog.gatsbyjs.io)
+Gatsby Web Car Profile : [https://limoweb.vercel.app →](https://limoweb.vercel.app/)
 
 Test demo via shared hosting deploy : [https://cutegatsby.axcora.my.id →](https://cutegatsby.axcora.my.id/)
+
+Test demo via gatsby cloud deploy : [https://cuteblog.gatsbyjs.io/ →](https://cuteblog.gatsbyjs.io)
 
 Video demo : [https://youtu.be/WJk0aXGN39w](https://youtu.be/WJk0aXGN39w)
